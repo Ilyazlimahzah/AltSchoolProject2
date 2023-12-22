@@ -1,0 +1,13 @@
+figma refrence link: https://www.figma.com/file/OJMDeEi2fWlPBFrlJFEgFx/wp-pusher-checkout?type=design&node-id=3-3&mode=design&t=ILb9qvyxzru4Ym7E-0
+
+Folder structures:
+/font
+	static 'Lato' font import
+/static
+	static images used
+./index.css
+	css style sheet
+./index.html
+	html entry point into UI
+./documentation.txt
+	files and folder documentation
